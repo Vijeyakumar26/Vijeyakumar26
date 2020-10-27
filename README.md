@@ -8,6 +8,5 @@
 - 💬 Ask me about Backend Stuff.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vijeyakumar-r-911a0a193/)
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: ...
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Vijeyakumar26&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
