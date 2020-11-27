@@ -1,7 +1,6 @@
 ## Hola! This is Vijey.👋
 
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Servlets.
 - 👯 I’m looking to collaborate on [Instagram]()
 - 🤔 I’m looking for help with Spring Boot.
